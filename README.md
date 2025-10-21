@@ -9,7 +9,6 @@ A Rust implementation inspired by the legendary Trojan Room coffee pot - the wor
 - **Live Coffee Pot Feed**: Displays continuous MJPEG stream from https://kaffee.hnf.de
 - **Trojan View Mode**: Optional filter to simulate the original 128×128 grayscale view
 - **Classic X11 Aesthetic**: Dark theme reminiscent of the original xcoffee
-- **Status Display**: Shows last update time
 
 ## Historical Background
 
