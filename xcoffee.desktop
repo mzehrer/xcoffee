@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=xcoffee
+Comment=Trojan Room Coffee Pot Camera Stream Viewer
+Exec=xcoffee
+Icon=applications-internet
+Terminal=false
+Categories=Network;Video;AudioVideo;
+Keywords=coffee;camera;stream;webcam;
+StartupNotify=true
+StartupWMClass=xcoffee
