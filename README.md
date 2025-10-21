@@ -2,6 +2,8 @@
 
 A Rust implementation inspired by the legendary Trojan Room coffee pot - the world's first webcam. This application displays a live feed from the historical coffee pot now housed at the Heinz Nixdorf MuseumsForum in Paderborn, Germany.
 
+![screenshot](screenshot.png)
+
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 ## Features
